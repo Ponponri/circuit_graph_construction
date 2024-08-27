@@ -3,7 +3,7 @@
 ## Environment
 g++ (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
 
-## Run code
+## Execute
 
 - Using "make" to build binary file named m11102137
 ```
